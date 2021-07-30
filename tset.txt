@@ -1,5 +1,9 @@
+------------Primer commit --------------------------------
 Este es un test para subir poryecto a github
-
+------------Segundo commit -------------------------------
 lo estoy haciendo con el objetivo de practicar Git, y poder aprender a subir un proyecto a git desde un repositorio local.
+------------Segundo commit, aÃ±adido con 'git commit --amend' --------------------
+Esto deberia ir en el segundo commit, sin embargo fua aï¿½adido luego de hacer el segundo commit.
+------------------tercer commit-----------------------------
+A partir de ahora estamos en el tercer commit:
 
-Esto deberia ir en el segundo commit, sin embargo fua añadido luego de hacer el segundo commit.
