@@ -8,3 +8,6 @@ Esto deberia ir en el segundo commit, sin embargo fua a�adido luego de hacer e
 A partir de ahora estamos en el tercer commit:
 -------------------Primer commit de la otra rama----------
 ESte es un terxto añadido desde la rama 
+-------------------segundo commit de la otra rama----------
+A partir de hoy estudiare mucho mas para porder obtener un empleo como desarrollador, un buen empleo y luego emprender.
+Necesito tener recursos primero. Al menos para subsistir
