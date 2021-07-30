@@ -6,4 +6,7 @@ lo estoy haciendo con el objetivo de practicar Git, y poder aprender a subir un 
 Esto deberia ir en el segundo commit, sin embargo fua a�adido luego de hacer el segundo commit.
 ------------------tercer commit-----------------------------
 A partir de ahora estamos en el tercer commit:
+------------------cuarto commit-----------------------------
+EStoy en mi casa y ya va a empezar el Shabbat :)
+quiero aprovechar para estudiar el tema del dia.
 
