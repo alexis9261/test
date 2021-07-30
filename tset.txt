@@ -1,1 +1,5 @@
-ESte es un test para subir poryecto a github
+Este es un test para subir poryecto a github
+
+lo estoy haciendo con el objetivo de practicar Git, y poder aprender a subir un proyecto a git desde un repositorio local.
+
+Esto deberia ir en el segundo commit, sin embargo fua añadido luego de hacer el segundo commit.
