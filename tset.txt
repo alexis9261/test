@@ -6,4 +6,5 @@ lo estoy haciendo con el objetivo de practicar Git, y poder aprender a subir un 
 Esto deberia ir en el segundo commit, sin embargo fua a�adido luego de hacer el segundo commit.
 ------------------tercer commit-----------------------------
 A partir de ahora estamos en el tercer commit:
-
+-------------------Primer commit de la otra rama----------
+ESte es un terxto añadido desde la rama 
